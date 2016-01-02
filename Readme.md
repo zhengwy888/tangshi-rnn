@@ -1,3 +1,7 @@
+A fork of [char-rnn](https://github.com/karpathy/char-rnn) that learns from line samples, excellent at producing structured poems.  
+Demo at [http://zhengwy.com/make-tangshi/](http://zhengwy.com/make-tangshi/)
+See [my blog](zhengwy.com/neural-network-for-tangshi/) that explains some details.
+
 ## Train
 To train this is the easiest (the following command is what worked for me, smaller network will not work so well)
 ```
